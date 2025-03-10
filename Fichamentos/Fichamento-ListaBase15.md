@@ -3,7 +3,18 @@ Referência:
 Huq, Syed Fatiul; Sadiq, Ali Zafar; Sakib, Kazi. "Is Developer Sentiment Related to Software Bugs: An Exploratory Study on GitHub Commits," in SANER 2020, London, ON, Canada, 2020. DOI: 10.1109/SANER48275.2020.9054812.
 
 ## 1. Fichamento de Conteúdo
-   O artigo investiga a relação entre o sentimento dos desenvolvedores e a introdução ou correção de bugs em commits no GitHub. Para isso, os autores analisam quatro tipos de commits: Fix-Inducing Changes (FICs) (commits que introduzem bugs), Parent of FICs (pFICs) (commits anteriores aos FICs), Fixing Changes (FCs) (commits que corrigem bugs) e Fix-Inducing Fixes (FIFs) (commits que, ao corrigirem um bug, introduzem novos erros). Utilizando a ferramenta Senti4SD, especializada em análise de sentimentos no domínio de engenharia de software, os autores identificam que todos os commits relacionados a bugs possuem sentimentos mais negativos do que commits regulares. Além disso, os commits que corrigem bugs (FCs) e aqueles que introduzem novos bugs ao tentar corrigir (FIFs) são os mais negativos. O estudo sugere que a análise de sentimentos pode ser usada como uma métrica para identificar potenciais problemas no desenvolvimento de software.
+ Este artigo explora um tema fascinante: a relação entre o sentimento do desenvolvedor e a introdução ou correção de bugs no software. Ao contrário dos estudos anteriores, que analisaram sentimentos em um contexto mais geral, aqui os autores investigam como a negatividade ou positividade das mensagens de commits pode indicar problemas no código.
+
+Para isso, eles classificaram os commits em quatro categorias:
+
+* Fix-Inducing Changes (FICs): commits que introduzem bugs.
+* Parent of FICs (pFICs): commits anteriores aos FICs, que podem influenciar a introdução de bugs.
+* Fixing Changes (FCs): commits que corrigem bugs.
+* Fix-Inducing Fixes (FIFs): commits que, ao tentar corrigir um bug, acabam criando um novo.
+  
+Utilizando a ferramenta Senti4SD, os autores descobriram que todos os commits relacionados a bugs tendem a ser mais negativos do que os commits regulares. Além disso, commits de correção de bugs (FCs) e aqueles que criam novos bugs ao tentar corrigir (FIFs) apresentam os sentimentos mais negativos e menos neutros. Isso sugere que o estresse e a frustração do desenvolvedor ao lidar com erros podem afetar a qualidade do código produzido.
+
+A ideia de que emoções negativas podem estar ligadas à introdução de bugs é extremamente interessante. Se confirmada em estudos futuros, essa abordagem pode ser usada para prever problemas antes que eles aconteçam, ajudando equipes a intervir precocemente. No entanto, o estudo tem algumas limitações, como a falta de um modelo preditivo mais refinado e a necessidade de testes em um conjunto de dados ainda maior. Mesmo assim, os resultados são promissores e indicam um caminho relevante para melhorar a qualidade do software através da análise de sentimentos.
 
 ## 2. Fichamento Bibliográfico
 *    Fix-Inducing Changes (FICs): São commits que introduzem bugs no software. Esses commits tendem a ter mensagens mais negativas do que commits regulares.
