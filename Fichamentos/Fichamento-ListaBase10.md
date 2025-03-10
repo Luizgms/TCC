@@ -9,24 +9,24 @@ O artigo investiga a toxicidade nas discussões de código aberto, especialmente
 
 ## 2. Fichamento Bibliográfico
 
-*A toxicidade em discussões de código aberto pode ser categorizada em trolling, arrogância, insultos, tom não profissional e exigências excessivas.
+* A toxicidade em discussões de código aberto pode ser categorizada em trolling, arrogância, insultos, tom não profissional e exigências excessivas.
 
-*Os comentários tóxicos podem ser direcionados ao código ou a indivíduos, sendo mais comuns ataques pessoais do que críticas a contribuições técnicas.
+* Os comentários tóxicos podem ser direcionados ao código ou a indivíduos, sendo mais comuns ataques pessoais do que críticas a contribuições técnicas.
 
-*Desenvolvedores experientes e membros do projeto também participam de interações tóxicas, e não apenas novos usuários ou anônimos.
+* Desenvolvedores experientes e membros do projeto também participam de interações tóxicas, e não apenas novos usuários ou anônimos.
 
-*Os principais fatores que levam a interações tóxicas incluem desacordos técnicos, ideologias políticas e interações passadas problemáticas.
+* Os principais fatores que levam a interações tóxicas incluem desacordos técnicos, ideologias políticas e interações passadas problemáticas.
 
-*A presença de toxicidade pode impactar negativamente o engajamento de contribuidores e a sustentabilidade do projeto.
+* A presença de toxicidade pode impactar negativamente o engajamento de contribuidores e a sustentabilidade do projeto.
 
 ## 3. Fichamento de Citações
 
-*"Working in open source is the working retail of software."
+* "Working in open source is the working retail of software."
 
-*"The presence of toxicity in discussions can discourage new contributors and reduce long-term project sustainability."
+* "The presence of toxicity in discussions can discourage new contributors and reduce long-term project sustainability."
 
-*"Toxic comments often stem from technical disagreements, perceived errors, and past negative interactions."
+* "Toxic comments often stem from technical disagreements, perceived errors, and past negative interactions."
 
-*"Experienced developers and project members are not exempt from participating in toxic discussions."
+* "Experienced developers and project members are not exempt from participating in toxic discussions."
 
-"Automation and stricter moderation policies could help reduce the prevalence of toxicity in open-source communities."
+* "Automation and stricter moderation policies could help reduce the prevalence of toxicity in open-source communities."
