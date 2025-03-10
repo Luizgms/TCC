@@ -1,4 +1,4 @@
-# Comments’ Polarity: An Empirical Study
+# Self-Admitted Technical Debt and Comments’ Polarity: An Empirical Study
 
 Referência:
 Cassee, Nathan; Zampetti, Fiorella; Novielli, Nicole; Serebrenik, Alexander; Di Penta, Massimiliano. "Self-Admitted Technical Debt and Comments’ Polarity: An Empirical Study." Empirical Software Engineering (2022) 27:139. doi: 10.1007/s10664-022-10183-w
