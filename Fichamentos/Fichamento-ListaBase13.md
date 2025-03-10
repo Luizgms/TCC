@@ -4,7 +4,11 @@ Ferreira, Mívian M.; Gonçalves, Diego Santos; Bigonha, Mariza A. S.; Ferreira,
 
 ## 1. Fichamento de Conteúdo
 
-O artigo aborda a caracterização de commits em projetos de software open-source no GitHub, destacando como seu entendimento pode evitar vieses em pesquisas que analisam dados de commits. O estudo analisa aproximadamente 1 milhão de commits de 24 repositórios populares de projetos baseados em Java, considerando quatro aspectos principais: (i) tamanho dos commits em número total de arquivos; (ii) tamanho dos commits considerando apenas arquivos de código-fonte Java; (iii) tamanho dos commits categorizados por atividade; e (iv) intervalo de tempo entre commits feitos pelos desenvolvedores. Os resultados indicam que o tamanho dos commits segue uma distribuição de cauda longa, com a maioria dos commits envolvendo entre 1 e 10 arquivos e entre 1 e 4 arquivos de código-fonte Java. Além disso, a análise revela que commits grandes não estão restritos a atividades de merge ou gestão e que o intervalo médio entre commits é de aproximadamente 8 horas. O estudo sugere que pesquisadores devem levar em conta essas características para evitar conclusões enviesadas ao analisar dados de commits. Para os profissionais, os achados podem auxiliar na gestão e planejamento de atividades de software.
+O artigo aborda a caracterização de commits em projetos de software open-source no GitHub, destacando como seu entendimento pode evitar vieses em pesquisas que analisam dados de commits. 
+
+O estudo analisa aproximadamente 1 milhão de commits de 24 repositórios populares de projetos baseados em Java, considerando quatro aspectos principais: (i) tamanho dos commits em número total de arquivos; (ii) tamanho dos commits considerando apenas arquivos de código-fonte Java; (iii) tamanho dos commits categorizados por atividade; e (iv) intervalo de tempo entre commits feitos pelos desenvolvedores. Os resultados indicam que o tamanho dos commits segue uma distribuição de cauda longa, com a maioria dos commits envolvendo entre 1 e 10 arquivos e entre 1 e 4 arquivos de código-fonte Java. 
+
+Além disso, a análise revela que commits grandes não estão restritos a atividades de merge ou gestão e que o intervalo médio entre commits é de aproximadamente 8 horas. O estudo sugere que pesquisadores devem levar em conta essas características para evitar conclusões enviesadas ao analisar dados de commits. Para os profissionais, os achados podem auxiliar na gestão e planejamento de atividades de software.
 
 ## 2. Fichamento Bibliográfico
 
