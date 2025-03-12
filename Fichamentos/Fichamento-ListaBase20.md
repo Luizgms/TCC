@@ -10,16 +10,14 @@ O artigo explora a toxicidade presente em discussões sobre código aberto, anal
 O artigo também destaca como a toxicidade pode desmotivar novos contribuidores e impactar negativamente a retenção de membros nos projetos open-source. Esse é um problema sério, considerando que a sustentabilidade desses projetos depende de colaboração voluntaria constante. A pesquisa sugere medidas para mitigar esse comportamento, incluindo diretrizes mais rígidas para moderação e o uso de ferramentas automatizadas para detectar e gerenciar comentários inadequados. No geral, o estudo é bastante relevante para quem deseja entender os desafios sociais do desenvolvimento de software aberto e reforça a importância de manter um ambiente saudável para garantir o crescimento da comunidade.
 
 ## 2. Fichamento Bibliográfico
+  
+* _Types of toxicity_ (Tipos de Toxicidade): São classificados em cinco categorias principais: trolling (comentários provocativos), arrogância (respostas condescendentes), insultos diretos, tom não profissional e exigências excessivas (página 715).
 
-* A toxicidade em discussões de código aberto pode ser categorizada em trolling, arrogância, insultos, tom não profissional e exigências excessivas.
+* _Sentiment analysis_ (Análise de Sentimentos): Técnica de aprendizado de máquina utilizada para detectar e classificar a toxicidade em comentários, analisando padrões linguísticos que indicam comportamento hostil ou desrespeitoso (página 718).
 
-* Os comentários tóxicos podem ser direcionados ao código ou a indivíduos, sendo mais comuns ataques pessoais do que críticas a contribuições técnicas.
+* _Automatic Content Moderation_ (Moderação Automática de Conteudo): Ferramentas baseadas em inteligência artificial que analisam e filtram comentários tóxicos em plataformas de código aberto. O artigo sugere que tais sistemas podem ser úteis para mitigar o problema (página 720).
 
-* Desenvolvedores experientes e membros do projeto também participam de interações tóxicas, e não apenas novos usuários ou anônimos.
-
-* Os principais fatores que levam a interações tóxicas incluem desacordos técnicos, ideologias políticas e interações passadas problemáticas.
-
-* A presença de toxicidade pode impactar negativamente o engajamento de contribuidores e a sustentabilidade do projeto.
+* _Impact on Contributor Retention_ (Impacto na Retenção de Contribuidores): Comentários tóxicos afetam negativamente a participação de novos desenvolvedores e podem levar à evasão de contribuidores ativos, reduzindo a sustentabilidade dos projetos (página 719).
 
 ## 3. Fichamento de Citações
 
