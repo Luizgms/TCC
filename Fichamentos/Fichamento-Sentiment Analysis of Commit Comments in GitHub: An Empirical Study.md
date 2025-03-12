@@ -11,10 +11,13 @@ O estudo tem pontos positivos, como o uso de um grande conjunto de dados e a apl
 
 ## 2. Fichamento Bibliográfico
 * SentiStrength é uma ferramenta lexical de análise de sentimentos que atribui valores entre -5 e 5 às palavras de um texto, considerando modificadores e contexto para ajustar os escores de emoção.
-* Commit comments negativos em Java: Projetos desenvolvidos em Java apresentaram comentários de commits significativamente mais negativos em comparação a outras linguagens como C, C++, JavaScript e Python.
-* Influência do dia da semana: Commits feitos às segundas-feiras tendem a expressar emoções mais negativas do que os realizados em outros dias da semana.
-* Distribuição geográfica e emoções: Projetos com equipes mais distribuídas geograficamente apresentam uma correlação positiva com o número de comentários de commits positivos.
-* Correlação com aprovação do projeto: Não foi encontrada uma correlação significativa entre a quantidade de estrelas recebidas por um projeto no GitHub e a média geral dos sentimentos expressos nos commits.
+  
+* _Lexical Sentiment Analysis_ (Análise de Sentimentos Lexical): Técnica que identifica sentimentos em textos com base em dicionários predefinidos de palavras positivas e negativas. No artigo, essa abordagem foi utilizada para avaliar as emoções nos comentários de commits (p. 3)​.
+  
+* _Geographical Distribution_ (Distribuição Geográfica): Refere-se à dispersão de uma equipe de desenvolvimento ao redor do mundo. O estudo encontrou uma correlação entre equipes distribuídas globalmente e comentários mais positivos nos commits (p. 5)​.
+
+* _Wilcoxon Rank Sum Test_ (Teste de Soma de Postos de Wilcoxon): Teste estatístico não paramétrico utilizado no artigo para comparar a distribuição dos sentimentos em diferentes grupos de commits, identificando diferenças significativas entre eles (p. 6)​
+
 
 ## 3. Fichamento de Citações
 * "Projects developed in Java tend to have more negative commit comments." 
