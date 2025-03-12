@@ -13,16 +13,13 @@ O artigo também traz uma visão interessante sobre como os desenvolvedores lida
 
 ## 2. Fichamento Bibliográfico
 
-* O SATD consiste em anotações no código que indicam problemas de implementação, funcionalidades incompletas ou dificuldades de manutenção.
+* _Self-Admitted Technical Debt_ (Dívida técnica autoadmitida): Refere-se a comentários e deixados pelos próprios desenvolvedores no código-fonte, indicando problemas técnicos conhecidos, como código mal estruturado, funcionalidades incompletas ou decisões de design que precisarão ser revisadas no futuro (página 1).
 
-* Os tipos mais comuns de SATD são decisões de implementação inadequadas (41%) e funcionalidades parcialmente implementadas (22%).
+* _Polarity of SATD Comments_ (Polaridade dos Comentários SATD): Classificação da tonalidade emocional dos comentários SATD em negativa, neutra ou mista. Comentários com polaridade negativa tendem a indicar maior urgência ou frustração dos desenvolvedores em relação à dívida técnica mencionada (página 4).
 
-* Desenvolvedores utilizam tom negativo em comentários SATD quando aguardam outras implementações para resolver um problema.
+* _Sentiment Analysis_ (Análise de Sentimentos): Técnica de processamento de linguagem natural usada para identificar e classificar a polaridade emocional de textos. No estudo, essa técnica foi aplicada para avaliar se comentários SATD expressam frustração, urgência ou neutralidade (página 6).
 
-* Cerca de 30% dos desenvolvedores acreditam que o tom negativo pode indicar maior prioridade para resolução do SATD.
-
-* Ferramentas de análise automatizada podem ajudar a gerenciar e priorizar SATD de maneira mais eficiente.
-
+* _Issue Trackers_ (Rastreamento de Problemas): Ferramentas como Jira e GitHub Issues, que permitem o registro, categorização e acompanhamento de problemas e melhorias no código. O estudo aponta que muitos desenvolvedores preferem discutir SATD nesses sistemas, em vez de usar apenas comentários no código (página 10).
 ## 3. Fichamento de Citações
 
 * "The way a SATD comment is written, and specifically its polarity, may be a proxy indicator of the severity of the problem."
