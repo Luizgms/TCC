@@ -12,11 +12,11 @@ Além disso, a análise revela que commits grandes não estão restritos a ativi
 
 ## 2. Fichamento Bibliográfico
 
-* Distribuição de Cauda Longa: Padrão estatístico onde a maioria dos commits altera poucos arquivos, mas há casos extremos em que centenas de arquivos são modificados. Esse fenômeno influencia a análise de produtividade e padrões de contribuição (página 3).
+* _Long Tail Distribution_ Distribuição de Cauda Longa: Padrão estatístico onde a maioria dos commits altera poucos arquivos, mas há casos extremos em que centenas de arquivos são modificados. Esse fenômeno influencia a análise de produtividade e padrões de contribuição (página 3).
 
 * Categorias de Commits: Classificação das alterações no código-fonte em seis categorias principais: Merge (fusões de branches), Engenharia Corretiva (correção de bugs), Engenharia Progressiva (adição de funcionalidades), Reengenharia (melhoria do código), Gestão (tarefas administrativas) e Outros (casos não categorizáveis) (página 6).
 
-* Intervalo de Tempo entre Commits: Tempo médio entre commits consecutivos feitos por um mesmo desenvolvedor, que no estudo foi identificado como sendo de aproximadamente 8 horas, seguindo uma distribuição normal (página 8).
+* _Time between commits_ Tempo entre Commits: Tempo médio entre commits consecutivos feitos por um mesmo desenvolvedor, seguindo uma distribuição normal (página 8).
 
 * API GraphQL do GitHub: Ferramenta utilizada para extrair e analisar os commits. O uso dessa API permite a obtenção eficiente de grandes volumes de dados sobre repositórios e atividades dos desenvolvedores (página 4).
 
