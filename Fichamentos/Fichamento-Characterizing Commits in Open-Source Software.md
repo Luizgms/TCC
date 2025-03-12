@@ -16,7 +16,7 @@ Além disso, a análise revela que commits grandes não estão restritos a ativi
 
 * Categorias de Commits: Classificação das alterações no código-fonte em seis categorias principais: Merge (fusões de branches), Engenharia Corretiva (correção de bugs), Engenharia Progressiva (adição de funcionalidades), Reengenharia (melhoria do código), Gestão (tarefas administrativas) e Outros (casos não categorizáveis) (página 6).
 
-* _Time between commits_ Tempo entre Commits: Tempo médio entre commits consecutivos feitos por um mesmo desenvolvedor, seguindo uma distribuição normal (página 8).
+* _Time between commits_ (Tempo entre Commits): Tempo médio entre commits consecutivos feitos por um mesmo desenvolvedor, seguindo uma distribuição normal (página 8).
 
 * API GraphQL do GitHub: Ferramenta utilizada para extrair e analisar os commits. O uso dessa API permite a obtenção eficiente de grandes volumes de dados sobre repositórios e atividades dos desenvolvedores (página 4).
 
