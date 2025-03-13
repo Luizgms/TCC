@@ -1,7 +1,7 @@
 # Did You Miss My Comment or What? Understanding Toxicity in Open Source Discussions
 
 Referência:
-Zhou, Mi; Bosu, Amiangshu; Inozemtseva, Laura. "Did You Miss My Comment or What? Understanding Toxicity in Open Source Discussions." 2022 IEEE/ACM 44th International Conference on Software Engineering (ICSE). doi: 10.1145/3510003.3510111
+Zhou, Mi; Bosu, Amiangshu; Inozemtseva, Laura. "Did You Miss My Comment or What? Understanding Toxicity in Open Source Discussions." 2022 IEEE/ACM 44th International Conference on Software Engineering (ICSE). https://doi.org/10.1145/3510003.3510111.
 
 ## 1. Fichamento de Conteúdo
 
