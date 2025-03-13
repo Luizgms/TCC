@@ -5,9 +5,11 @@ Zhou, Mi; Bosu, Amiangshu; Inozemtseva, Laura. "Did You Miss My Comment or What?
 
 ## 1. Fichamento de Conteúdo
 
-O artigo explora a toxicidade presente em discussões sobre código aberto, analisando sua frequência, natureza e impacto em plataformas como GitHub. Os autores realizam um estudo empírico para categorizar os tipos de toxicidade e entender como ela afeta o ambiente colaborativo desses projetos. O estudo mostra que comentários tóxicos podem ter diferentes origens, desde desacordos técnicos até questões ideológicas ou interações passadas mal resolvidas. Um ponto interessante é que não apenas novos usuários ou anônimos demonstram esse comportamento, mas também desenvolvedores experientes e membros ativos do projeto, o que indica que a toxicidade não é um problema apenas de iniciantes, mas um reflexo da cultura da comunidade.
+O estudo investiga a toxicidade em discussões de código aberto, analisando padrões e fatores que influenciam interações negativas. O objetivo é entender em quais contextos a toxicidade ocorre e seu impacto na colaboração entre desenvolvedores.
 
-O artigo também destaca como a toxicidade pode desmotivar novos contribuidores e impactar negativamente a retenção de membros nos projetos open-source. Esse é um problema sério, considerando que a sustentabilidade desses projetos depende de colaboração voluntaria constante. A pesquisa sugere medidas para mitigar esse comportamento, incluindo diretrizes mais rígidas para moderação e o uso de ferramentas automatizadas para detectar e gerenciar comentários inadequados. No geral, o estudo é bastante relevante para quem deseja entender os desafios sociais do desenvolvimento de software aberto e reforça a importância de manter um ambiente saudável para garantir o crescimento da comunidade.
+Foram analisados 1.5 milhão de comentários de issues e pull requests no GitHub, utilizando Processamento de Linguagem Natural (PLN) para identificar e classificar toxicidade. A toxicidade foi categorizada em comportamento não profissional, trolling, arrogância, insultos e exigências desrespeitosas, e os autores avaliaram o alvo dos ataques (pessoas ou código).
+
+Os resultados indicam que 30% dos comentários tóxicos são direcionados a indivíduos e 70% ao código. A toxicidade ocorre mais em discussões sobre bugs críticos e discordâncias técnicas prolongadas. Além disso, desenvolvedores experientes tendem a ser menos tóxicos, mas expressam mais frustração. O estudo sugere que mecanismos de moderação automatizada e diretrizes claras podem diminuir esse problema.
 
 ## 2. Fichamento Bibliográfico
   
@@ -21,12 +23,12 @@ O artigo também destaca como a toxicidade pode desmotivar novos contribuidores 
 
 ## 3. Fichamento de Citações
 
-* "Working in open source is the working retail of software."
+* _"Working in open source is the working retail of software."_
 
-* "The presence of toxicity in discussions can discourage new contributors and reduce long-term project sustainability."
+* _"The presence of toxicity in discussions can discourage new contributors and reduce long-term project sustainability."_
 
-* "Toxic comments often stem from technical disagreements, perceived errors, and past negative interactions."
+* _"Toxic comments often stem from technical disagreements, perceived errors, and past negative interactions."_
 
-* "Experienced developers and project members are not exempt from participating in toxic discussions."
+* _"Experienced developers and project members are not exempt from participating in toxic discussions."_
 
-* "Automation and stricter moderation policies could help reduce the prevalence of toxicity in open-source communities."
+* _"Automation and stricter moderation policies could help reduce the prevalence of toxicity in open-source communities."_
