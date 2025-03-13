@@ -1,15 +1,15 @@
 # Self-Admitted Technical Debt and Comments’ Polarity: An Empirical Study
 
 Referência:
-Cassee, Nathan; Zampetti, Fiorella; Novielli, Nicole; Serebrenik, Alexander; Di Penta, Massimiliano. "Self-Admitted Technical Debt and Comments’ Polarity: An Empirical Study." Empirical Software Engineering (2022) 27:139. doi: 10.1007/s10664-022-10183-w
+Cassee, Nathan; Zampetti, Fiorella; Novielli, Nicole; Serebrenik, Alexander; Di Penta, Massimiliano. "Self-Admitted Technical Debt and Comments’ Polarity: An Empirical Study." Empirical Software Engineering (2022) 27:139. https://doi.org/10.1007/s10664-021-10031-3
 
 ## 1. Fichamento de Conteúdo
 
-O artigo analisa a relação entre o débito técnico autodeclarado pelos desenvolvedores e a forma como eles expressam seus comentários no código-fonte. Os autores buscam compreender se a maneira como um SATD(Self-Admitted Technical Deb) é escrito pode indicar a gravidade do problema ou a urgência para resolvê-lo.
+O artigo analisa como desenvolvedores documentam a dívida técnica autoassumida (SATD) em comentários de código, explorando se a polaridade dessas anotações indica urgência ou gravidade do problema.
 
-O estudo se baseia em uma análise manual de 1038 comentários SATD e em uma pesquisa com 46 desenvolvedores profissionais. Os resultados mostram que a maioria dos SATDs está relacionada a escolhas de implementação ruins e funcionalidades que fora parcialmente implementadas. Um ponto interessante do estudo é a descoberta de que comentários mais negativos tendem a estar ligados a funcionalidades inacabadas que dependem de outras partes do sistema para serem finalizadas. Isso pode indicar um nível maior de frustração por parte dos desenvolvedores, além de ser um alerta sobre a complexidade da dependência entre módulos em projetos de software.
+Os autores analisaram manualmente 1038 comentários SATD de projetos open-source, categorizando-os por tipo de dívida e tom emocional. Uma pesquisa com 46 desenvolvedores avaliou a percepção deles sobre o uso de comentários negativos para destacar problemas técnicos.
 
-O artigo também traz uma visão interessante sobre como os desenvolvedores lidam com o SATD: cerca de 30% dos entrevistados acreditam que um tom negativo pode ser um indicativo de maior prioridade, enquanto 50% preferem que o SATD seja discutido em issue trackers, em vez de ser simplesmente documentado no código. Essa discussão é crucial, pois reflete a dificuldade de gerenciar a dívida técnica de forma eficiente, especialmente em projetos open-source, onde a colaboração é descentralizada. A pesquisa sugere que a gestão de SATD poderia ser aprimorada com ferramentas automatizadas que identifiquem e priorizem essas anotações, facilitando a manutenção e evolução do software.
+Os resultados mostram que 41% das SATDs estão ligadas a más decisões de implementação e 22% a funcionalidades incompletas. revelou também que embora 30% dos desenvolvedores usem comentários negativos como indicador de prioridade, 50% preferem discutir SATD em issue trackers como Jira. O estudo por fim reforça a importância de melhores ferramentas para gerencia automatica desses SATD.
 
 ## 2. Fichamento Bibliográfico
 
@@ -22,12 +22,12 @@ O artigo também traz uma visão interessante sobre como os desenvolvedores lida
 * _Issue Trackers_ (Rastreamento de Problemas): Ferramentas como Jira e GitHub Issues, que permitem o registro, categorização e acompanhamento de problemas e melhorias no código. O estudo aponta que muitos desenvolvedores preferem discutir SATD nesses sistemas, em vez de usar apenas comentários no código (página 10).
 ## 3. Fichamento de Citações
 
-* "The way a SATD comment is written, and specifically its polarity, may be a proxy indicator of the severity of the problem."
+* _"The way a SATD comment is written, and specifically its polarity, may be a proxy indicator of the severity of the problem."_
 
-* "Self-Admitted Technical Debt comments are mainly used for annotating poor implementation choices (41%) and partially implemented functionality (22%)."
+* _"Self-Admitted Technical Debt comments are mainly used for annotating poor implementation choices (41%) and partially implemented functionality (22%)."_
 
-* "Around 30% of the survey respondents agree on using/interpreting negative sentiment as a proxy for priority."
+* _"Around 30% of the survey respondents agree on using/interpreting negative sentiment as a proxy for priority."_
 
-* "Better tool support is required for SATD management, particularly in prioritizing technical debt resolution."
+* _"Better tool support is required for SATD management, particularly in prioritizing technical debt resolution."_
 
-* "50% of developers indicate that it would be better to discuss SATD on issue trackers and not in the source code."
+* _"50% of developers indicate that it would be better to discuss SATD on issue trackers and not in the source code."_
